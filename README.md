@@ -20,4 +20,4 @@ E-Mail - comming soon...<br />
 My Discord - https://discord.gg/cT8tQdyVm3
 ---
 # My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=darkvirus6627&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=darkvirus66627&show_icons=true&theme=tokyonight)
