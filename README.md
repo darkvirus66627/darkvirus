@@ -3,8 +3,8 @@
 # About me
 I'm dark, 18 y/o and live in Germany. <br />
 
-[![Discord Presence](https://api.lanyard.rest/v1/users/626101220116791296
-                            )](https://discord.com/users/322832717081214977)
+[![Discord Presence](https://lanyard.cnrad.dev/api/626101220116791296
+                            )](https://discord.com/users/219191061199847424)
 
 Feel free to add me on Discord!
 ---
